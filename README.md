@@ -1,2 +1,2 @@
 # Drum-kit
-built using implementing html, css and javascript.
+built using html, css and javascript.
